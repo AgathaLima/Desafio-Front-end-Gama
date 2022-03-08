@@ -119,6 +119,17 @@ Observação: As chaves para a autenticação desse projeto não estão inclusas
 
 </div>
 
+<br>
+
+## 🛠 Para rodar essa aplicação
+
+- Clone esse repositório;
+- Baixe as dependências com o segunte comando ` npm install next` ou `yarn add next` de acordo com sua prefêrencia;
+- Execute o seguinte comanado para acessar a API no localhost:3000: `npx json-server https://gist.githubusercontent.com/rferro/0b07663deae6a4a4d35170682a8b1fa3/raw/fc8168d1ccbb9f7e6c280de4d4fcaa0c19c3e6a0/db.json` ;
+- Mude a porta padrão do React para evitar conflitos com a porta da API utilizando o seguinte comando `export PORT=5000` ;
+- Solicite as chaves de segurança do sitema no email "agatha.lima01@hotmail.com" ou pergunte sobre qualquer dúvida técnica ;
+- Execute o projeto com `npm run dev` .
+
 
 ## ✅ Autora
 
